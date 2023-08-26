@@ -13,7 +13,7 @@
 .bar3 {
   width: 30px;
   height: 3px;
-  background-color: rgb(21, 20, 20);
+  background-color: rgb(254, 252, 252);
   margin: 6px 8px;
   transition: 0.4s;
 }
@@ -33,6 +33,6 @@
 }
 
 #nav-bar {
-  background: #95bdde;
+  background: #0d0d0d;
   padding: 0.2em;
 }
